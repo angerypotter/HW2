@@ -1,14 +1,16 @@
 
 //from center
 
-  createCanvas(240, 240);
-var steps = 0;
-while (steps != 9) {
-  draw();
-  steps = steps + 1;
-}
+ createCanvas(240, 240);
 
-function draw(steps) {
-
-  line(120, 120, random(width), random(height));
-}
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
+line(120, 120, random(width), random(height));
