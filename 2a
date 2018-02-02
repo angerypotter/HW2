@@ -1,4 +1,6 @@
 
+//from center
+
   createCanvas(240, 240);
 var steps = 0;
 while (steps != 9) {
