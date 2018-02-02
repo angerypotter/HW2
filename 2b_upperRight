@@ -1,0 +1,13 @@
+createCanvas(240, 240);
+
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
+line(240, 0, random(width), random(height));
